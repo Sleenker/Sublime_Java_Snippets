@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+new Color( ${1:60}, ${2:63}, ${3:65} )
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>newcolor</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.java</scope>
+	<description>Color() intantiation</description>
+</snippet>
